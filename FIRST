@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title><link rel="stylesheet" href="text.css"
+
+</head>
+<body>
+    <h1>Link</h1>
+
+    <button><a href="Sign inhtml">Sign in</a></button>
+    <button><a href="Join nowhtml">Join now</a> </button>
+
+    <h2>Welcome to your<br> professional community</h2>
+
+    <button><a href="Continue with googlehtml">Continue with google</a> </button>
+    <button><a href="Sign in with emailhtml">Sign in with email</a></button>
+
+    <p>By clicking to join or sign up you agree with kazilink's<a href="user agreementhtml">user agreement,<a/>
+        <a href="privacy policyhtml">privacy policy</a>and <a href="cookie policyhtml">cookie policy</a></p>
+
+        <p>New to kazilink?<a href="Join nowhtml">Join now</a></p>
+        <div><img src="c:\Users\user\Desktop\MY IMAGE.jpg" alt="image.jpeg"></div>
+
+
+
+
+</body>
+</html>
