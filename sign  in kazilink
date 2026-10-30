@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title><link rel="stylesheet" href="text.css"
+<head>
+    <div class="navbar"><div class="logo">KAZILINK<span></span></div>
+
+<h1>Sign in</h1>
+
+
+<div class="signin-container">
+
+
+</head>
+<body>
+    <form>
+        <label>Email</label>
+        <input type="email" placeholder="Enter your email">
+
+        <br>
+
+        <label>Password</label>
+        <input type="password" placeholder="Enter your password">
+
+        <br>
+
+        <button type="submit">Sign in</button>
+    </form>
+    </div>
+</body>
+</html>
