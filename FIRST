@@ -7,21 +7,52 @@
 
 </head>
 <body>
-    <h1>Link</h1>
+    <div class="navbar"><div class="logo">KAZILINK<span></span></div>
 
-    <button><a href="Sign inhtml">Sign in</a></button>
-    <button><a href="Join nowhtml">Join now</a> </button>
+    <div class="nav-buttons"><a href="signin.html"><button type="button"> Sign in</button></a>
+    <button><a href="Join nowhtml">Join now</a> </button></div></div>
 
-    <h2>Welcome to your<br> professional community</h2>
+    <h1> &#128640 your Hustle. your Money.your Future!</h1>
+    <p>Find gigs,meet employers and get your grind going &#128184</p>
 
-    <button><a href="Continue with googlehtml">Continue with google</a> </button>
-    <button><a href="Sign in with emailhtml">Sign in with email</a></button>
+    <div class="signup-buttons"><button><a href="Continue with googlehtml">Continue with google</a> </button><br>
+    <button><a href="Sign in with emailhtml">Sign in with email</a></button></div>
 
     <p>By clicking to join or sign up you agree with kazilink's<a href="user agreementhtml">user agreement,<a/>
-        <a href="privacy policyhtml">privacy policy</a>and <a href="cookie policyhtml">cookie policy</a></p>
+        <a href="privacy policyhtml">privacy policy</a>and <a href="cookie policyhtml">cookie policy</a><br>>New to kazilink?<a href="Join nowhtml">Join now</a></p>
 
-        <p>New to kazilink?<a href="Join nowhtml">Join now</a></p>
-        <div><img src="c:\Users\user\Desktop\MY IMAGE.jpg" alt="image.jpeg"></div>
+
+        <div class="list"><p>Find casual job for you now</p>
+          <img src="c:\Users\user\Downloads\pexels-karola-g-4239035.jpg"><button><a href="Cleaninghtml">cleaning</a></button>
+          <img src="c:\Users\user\Downloads\pexels-blackben-29654702.jpg"><button><a href="Hair $ Beautyhtml">Hair $ Beauty</a></button>
+          <img src="c:\Users\user\Downloads\pexels-pixabay-159760.jpg" alt="Computer jobs"><button><a href="Computer jobshtml">Computer jobs</a></button>
+          
+          <img src="c:\Users\user\Downloads\pexels-katerina-holmes-5905932.jpg" alt="teaching jobs"><button><a href="Teachinghtml">Teaching</a></button>
+          <img src="c:\Users\user\Downloads\pexels-caleboquendo-34585117.jpg" alt="guard jobs"><button><a href="Guard jobshtml">Guard jobs</a></button><br>
+          <button><a href="Photos$videoshtml">photos$videos</a></button>
+          <button><a href="Drivinghtml">Driving</a></button>
+          <button><a href="Sellinghtml">Selling</a></button>
+          <button><a href="Shop jobshtml">Shop jobs</a></button>
+          <button><a href="Repair jobshtml">Repair jobs</a></button><br>
+           <button><a href="Bulding $liftinghtml">Bulding $lifting</a></button>
+           <button><a href="Hotel $Eventshtml">Hotel $Events</a></button>
+            <button><a href="Deliveringhtml">Delivering</a></button>
+            <button><a href="Farm jobshtml">Farm jobs</a></button>
+            <button><a href="Office jobshtml">Repair jobs</a></button>
+
+        
+        </div>
+
+        </div>
+T
+        
+       
+
+
+
+
+
+        
 
 
 
