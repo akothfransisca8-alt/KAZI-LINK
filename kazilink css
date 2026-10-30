@@ -1,0 +1,90 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+
+}
+.navbar{
+width: 100%;
+display:flex;
+justify-content: space-between;
+align-items: center;
+padding:10px;
+}
+button{
+   background-color: #f3f3f7;
+   padding:5px;
+   border-radius: 10px;
+   cursor:pointer;
+   margin-bottom: 10px;
+   margin-right: 20px;
+
+}
+button:hover{
+    background-color: lightpink;
+}
+.logo{
+    color: #16A34A;
+    cursor: pointer;
+}
+.logo span{
+    color: #f97316;
+}
+ .list img{
+    width: 100px;
+    padding: 10px;
+    height: 100px;
+    object-fit: cover;
+    border-radius: 8px;
+ }
+
+    .list{
+        background-color: white
+        width: 400px;
+        height: 400px;
+        padding: 20px;
+        margin: 20px;
+        border: 2px solid brown;
+        border-radius: 10px;
+        gaps: 10px;
+    }
+    button a{
+        text-decoration: none;
+
+
+
+
+
+ }   
+
+
+/* Sign in Page */
+
+.signin-container {
+    width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color:aliceblue;
+    border-radius: 12px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+    
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
